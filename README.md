@@ -68,9 +68,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [Next.js Documentation](https://nextjs.org/docs) for the comprehensive guides and examples
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs) for the detailed documentation and examples
 ```
-
-You can copy the entire content above and paste it into your `README.md` file on GitHub or in your project's root directory.
-
-Remember to replace `your-username` and `your-project-name` in the repository URL with your actual GitHub username and project name.
-
-I hope this helps you create a complete README file for your project!
